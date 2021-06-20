@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthicknadaraj
+- 👋 Hi, I’m @Karthick Nadaraj
 - 
 - 👀 I’m interested in ...Data analyst
 - 
@@ -9,7 +9,7 @@
 - 📫 How to reach me ...karthicknadaraj98@gmail.com
 
 Educational Qualification:
-       I am a B.E Mechanical Engineering student passedout in 2020 at 
+       I am a B.E Mechanical Engineering graduate passedout in 2020 at 
        SNS College of Engineering, Coimbatore.
        
 I am an aspiring Data Analyst| Data Scientist
