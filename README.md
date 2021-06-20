@@ -7,6 +7,7 @@
 - 💞️ I’m looking to collaborate on ...Project
 - 
 - 📫 How to reach me ...karthicknadaraj98@gmail.com
+- 
 
 Educational Qualification:
        I am a B.E Mechanical Engineering graduate passedout in 2020 at 
