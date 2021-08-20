@@ -6,7 +6,7 @@
 -  
 - 💞️ I’m looking to collaborate on ...Project
 - 
-- 📫 How to reach me ...karthicknadaraj98@gmail.com
+- 📫 How to reach me ...karthicknadaraj98@gmail.com and https://github.com/karthicknadaraj
 - 
 
 Educational Qualification:
